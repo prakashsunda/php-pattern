@@ -32,6 +32,8 @@
                 echo "<'br/'>"; <br>
             }
             </p>
+
+            
             </div>
             <div class="col-sm-2" style="border:solid"><h3>2</h3>
             <?php
